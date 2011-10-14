@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'apresentador',
-    version = '1.2.8',
+    version = '1.2.9',
     description = u'App do projeto Variedades que contem o modelo de Apresentador'.encode('utf-8'),
     author = 'Entretenimento',
     author_email = 'entretenimento@corp.globo.com',
